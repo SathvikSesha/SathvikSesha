@@ -1,52 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sesha Sathvik</h1>
-<h3 align="center">Full Stack Developer | Java | MERN | DSA</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20,%20I'm%20Sesha%20Sathvik%20👋&fontSize=48&fontColor=ffffff" />
+</p>
+
+<p align="center" style="margin-top:-80px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN;DSA+Enthusiast;Building+scalable+real-world+applications" />
+</p>
 
 <p align="center">
-Building useful software, one commit at a time 🚀
+A backend-focused full stack developer passionate about building real-world software and improving problem-solving skills 🚀
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **RoutineIQ** (Productivity & routine tracking)
-- 🧩 Building a **Chrome Extension** (automation-focused)
-- 💻 Experienced with **Java, MERN Stack & Backend systems**
-- 🧠 Practicing **DSA consistently**
-- 🎯 Goal: Software Engineer / Full Stack Developer
+- 🔭 Currently building **RoutineIQ** – a smart routine & productivity platform  
+- 🧩 Developing a **Productivity Chrome Extension**  
+- 💻 Strong in **Java, Spring Boot & MERN Stack**  
+- 🧠 Consistently practicing **Data Structures & Algorithms**  
+- 🎯 Aspiring **Software Engineer / Full Stack Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
 <tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><b>Backend</b></td>
-<td align="center"><b>Database</b></td>
-<td align="center"><b>Tools</b></td>
+<td align="center" width="220">
+
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+</td>
+
+<td align="center" width="220">
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+</td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&perline=2" />
+<td align="center" width="220">
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=2" />
+<td align="center" width="220">
+
+### ☁️ Tools & Cloud  
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=2" />
-</td>
+<td align="center" width="220">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
-</td>
+### 🧩 Concepts  
+<img src="https://skillicons.dev/icons?i=docker" /> 
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode&perline=2" />
 </td>
 </tr>
 </table>
@@ -56,7 +77,12 @@ Building useful software, one commit at a time 🚀
 ## 🔥 Projects
 
 ### 🧳 Lost & Found Application
-Real-time lost and found system for campuses & communities.
+A real-time application to report, track, and recover lost items in campuses or communities.
+
+**Key Highlights**
+- Real-time updates using WebSockets  
+- Clean separation of frontend & backend  
+- Scalable Spring Boot backend  
 
 **Tech Stack**
 - React  
@@ -64,56 +90,62 @@ Real-time lost and found system for campuses & communities.
 - MySQL  
 - WebSocket  
 
-**Highlights**
-- Live item status updates
-- Scalable backend
-- Clean role-based flow
+---
+
+### 📊 RoutineIQ (Current Project 🚀)
+A smart routine and productivity tracking platform to help users stay consistent and organized.
+
+**Features**
+- Daily routine tracking  
+- Productivity analytics & insights  
+- Designed for future AI-based recommendations  
+
+**Tech Focus**
+- MERN Stack  
 
 ---
 
-### 📊 RoutineIQ (Current 🚀)
-Smart routine & productivity tracking platform.
+### 🧩 Productivity Chrome Extension (In Progress)
+A lightweight Chrome extension to improve focus and automate repetitive tasks.
 
-- Daily routine logging  
-- Analytics & insights  
-- Designed for future AI integration  
-
----
-
-### 🧩 Chrome Extension (In Progress)
-Productivity-focused Chrome extension.
-
-- Task automation  
-- Smart filtering  
-- Lightweight UX  
+**Focus Areas**
+- Productivity automation  
+- Minimal and fast UX  
+- Smart workflow enhancement  
 
 ---
 
-## 🧠 DSA & Problem Solving
+## 🧠 DSA & Competitive Programming
+
+<details>
+<summary><b>📘 LeetCode</b></summary>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Sathvik_Sesha/">
-    <img src="https://leetcard.jacoblin.cool/Sathvik_Sesha?theme=dark&font=Baloo&border=0" />
+  <a href="https://leetcode.com/u/Sathvik_Sesha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/sathviksesha">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-darkgreen?style=for-the-badge" />
+  <img src="https://leetcard.jacoblin.cool/Sathvik_Sesha?theme=dark&font=Baloo&border=0" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📗 GeeksforGeeks</b></summary>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sathviksesha" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikSesha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://gfgstatscard.vercel.app/sathviksesha" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikSesha&theme=tokyonight&hide_border=true" />
-</p>
+</details>
 
 ---
 
@@ -121,14 +153,14 @@ Productivity-focused Chrome extension.
 
 <p align="center">
   <a href="https://github.com/SathvikSesha">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/seshasathvik/">LinkedIn</a> •
+  <a href="lakshmisarmatk@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SathvikSesha&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SathvikSesha&label=Profile%20Views&color=blue" />
 </p>
 
 <p align="center">
