@@ -74,47 +74,6 @@ A backend-focused full stack developer passionate about building real-world soft
 
 ---
 
-## 🔥 Projects
-
-### 🧳 Lost & Found Application
-A real-time application to report, track, and recover lost items in campuses or communities.
-
-**Key Highlights**
-- Real-time updates using WebSockets  
-- Clean separation of frontend & backend  
-- Scalable Spring Boot backend  
-
-**Tech Stack**
-- React  
-- Java Spring Boot  
-- MySQL  
-- WebSocket  
-
----
-
-### 📊 RoutineIQ (Current Project 🚀)
-A smart routine and productivity tracking platform to help users stay consistent and organized.
-
-**Features**
-- Daily routine tracking  
-- Productivity analytics & insights  
-- Designed for future AI-based recommendations  
-
-**Tech Focus**
-- MERN Stack  
-
----
-
-### 🧩 Productivity Chrome Extension (In Progress)
-A lightweight Chrome extension to improve focus and automate repetitive tasks.
-
-**Focus Areas**
-- Productivity automation  
-- Minimal and fast UX  
-- Smart workflow enhancement  
-
----
-
 ## 🧠 DSA & Competitive Programming
 
 <details>
