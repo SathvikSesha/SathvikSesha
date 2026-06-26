@@ -12,10 +12,10 @@ A backend-focused full stack developer passionate about building real-world soft
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building **RoutineIQ** – a smart routine & productivity platform  
-- 🧩 Developing a **Productivity Chrome Extension**  
+- 🔭 Currently working on Snap class - An AI based attendence marker using deep learning 
+- 🧩 Developing a solution for solving the M&Q management problem 
 - 💻 Strong in **Java, Spring Boot & MERN Stack**  
 - 🧠 Consistently practicing **Data Structures & Algorithms**  
 - 🎯 Aspiring **Software Engineer / Full Stack Developer**
